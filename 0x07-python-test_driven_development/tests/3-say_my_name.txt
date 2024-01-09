@@ -21,7 +21,7 @@ Traceback (most recent call last):
 TypeError: last_name must be a string
 
 >>> say_my_name("henok", "fm")
-My name is henok Fmariam
+My name is henok Fm
 
 >>> say_my_name("henok")
 My name is henok 
